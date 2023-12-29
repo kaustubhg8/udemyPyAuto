@@ -1,0 +1,81 @@
+City,Time,Temperature,Condition
+Pune,2023-10-03 15:00:00,26.13,light rain
+Pune,2023-10-03 18:00:00,24.39,light rain
+Pune,2023-10-03 21:00:00,21.76,few clouds
+Pune,2023-10-04 00:00:00,21.35,scattered clouds
+Pune,2023-10-04 03:00:00,24.12,scattered clouds
+Pune,2023-10-04 06:00:00,28.6,scattered clouds
+Pune,2023-10-04 09:00:00,30.05,light rain
+Pune,2023-10-04 12:00:00,26.86,light rain
+Pune,2023-10-04 15:00:00,24.19,light rain
+Pune,2023-10-04 18:00:00,22.37,light rain
+Pune,2023-10-04 21:00:00,21.35,overcast clouds
+Pune,2023-10-05 00:00:00,20.68,broken clouds
+Pune,2023-10-05 03:00:00,23.32,broken clouds
+Pune,2023-10-05 06:00:00,27.77,scattered clouds
+Pune,2023-10-05 09:00:00,29.21,broken clouds
+Pune,2023-10-05 12:00:00,25.44,light rain
+Pune,2023-10-05 15:00:00,22.57,overcast clouds
+Pune,2023-10-05 18:00:00,21.31,overcast clouds
+Pune,2023-10-05 21:00:00,20.71,broken clouds
+Pune,2023-10-06 00:00:00,19.63,broken clouds
+Pune,2023-10-06 03:00:00,22.08,broken clouds
+Pune,2023-10-06 06:00:00,27.17,broken clouds
+Pune,2023-10-06 09:00:00,28.53,few clouds
+Pune,2023-10-06 12:00:00,25.61,few clouds
+Pune,2023-10-06 15:00:00,21.89,clear sky
+Pune,2023-10-06 18:00:00,20.7,clear sky
+Pune,2023-10-06 21:00:00,19.83,scattered clouds
+Pune,2023-10-07 00:00:00,19.35,scattered clouds
+Pune,2023-10-07 03:00:00,22.18,clear sky
+Pune,2023-10-07 06:00:00,27.13,clear sky
+Pune,2023-10-07 09:00:00,29.29,clear sky
+Pune,2023-10-07 12:00:00,27.23,clear sky
+Pune,2023-10-07 15:00:00,22.8,clear sky
+Pune,2023-10-07 18:00:00,21.64,clear sky
+Pune,2023-10-07 21:00:00,20.98,clear sky
+Pune,2023-10-08 00:00:00,20.42,clear sky
+Pune,2023-10-08 03:00:00,23.43,clear sky
+Pune,2023-10-08 06:00:00,27.84,clear sky
+Pune,2023-10-08 09:00:00,30.15,clear sky
+Pune,2023-10-08 12:00:00,29.06,clear sky
+Pune, 2023-10-03 15:00:00, 26.13, light rain
+Pune, 2023-10-03 18:00:00, 24.39, light rain
+Pune, 2023-10-03 21:00:00, 21.76, few clouds
+Pune, 2023-10-04 00:00:00, 21.35, scattered clouds
+Pune, 2023-10-04 03:00:00, 24.12, scattered clouds
+Pune, 2023-10-04 06:00:00, 28.6, scattered clouds
+Pune, 2023-10-04 09:00:00, 30.05, light rain
+Pune, 2023-10-04 12:00:00, 26.86, light rain
+Pune, 2023-10-04 15:00:00, 24.19, light rain
+Pune, 2023-10-04 18:00:00, 22.37, light rain
+Pune, 2023-10-04 21:00:00, 21.35, overcast clouds
+Pune, 2023-10-05 00:00:00, 20.68, broken clouds
+Pune, 2023-10-05 03:00:00, 23.32, broken clouds
+Pune, 2023-10-05 06:00:00, 27.77, scattered clouds
+Pune, 2023-10-05 09:00:00, 29.21, broken clouds
+Pune, 2023-10-05 12:00:00, 25.44, light rain
+Pune, 2023-10-05 15:00:00, 22.57, overcast clouds
+Pune, 2023-10-05 18:00:00, 21.31, overcast clouds
+Pune, 2023-10-05 21:00:00, 20.71, broken clouds
+Pune, 2023-10-06 00:00:00, 19.63, broken clouds
+Pune, 2023-10-06 03:00:00, 22.08, broken clouds
+Pune, 2023-10-06 06:00:00, 27.17, broken clouds
+Pune, 2023-10-06 09:00:00, 28.53, few clouds
+Pune, 2023-10-06 12:00:00, 25.61, few clouds
+Pune, 2023-10-06 15:00:00, 21.89, clear sky
+Pune, 2023-10-06 18:00:00, 20.7, clear sky
+Pune, 2023-10-06 21:00:00, 19.83, scattered clouds
+Pune, 2023-10-07 00:00:00, 19.35, scattered clouds
+Pune, 2023-10-07 03:00:00, 22.18, clear sky
+Pune, 2023-10-07 06:00:00, 27.13, clear sky
+Pune, 2023-10-07 09:00:00, 29.29, clear sky
+Pune, 2023-10-07 12:00:00, 27.23, clear sky
+Pune, 2023-10-07 15:00:00, 22.8, clear sky
+Pune, 2023-10-07 18:00:00, 21.64, clear sky
+Pune, 2023-10-07 21:00:00, 20.98, clear sky
+Pune, 2023-10-08 00:00:00, 20.42, clear sky
+Pune, 2023-10-08 03:00:00, 23.43, clear sky
+Pune, 2023-10-08 06:00:00, 27.84, clear sky
+Pune, 2023-10-08 09:00:00, 30.15, clear sky
+Pune, 2023-10-08 12:00:00, 29.06, clear sky
